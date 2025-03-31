@@ -1,4 +1,8 @@
 # 📈 Stock Price Prediction and Impact Analysis Using LSTM
+## 📌 Contributors
+- **Krishnendu Adhikary (055022)**
+- **Mohit Agarwal (055024)**
+
 
 ## 📌 Overview
 This project develops an **LSTM-based deep learning model** to predict stock prices for **NIFTY 50** and **Reliance Industries**. It also examines the impact of Reliance Industries’ stock movements on the NIFTY 50 index.
